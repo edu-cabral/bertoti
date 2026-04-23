@@ -1,4 +1,4 @@
-## Software é intangível
+# Atividade 1 - Software é intangível
 
 Segundo os engenheiros e engenheiras do google, programação seria o ato de escrever códigos e desenvolve-los, já a engenharia de software necessita aplicação teórica para produzir algo real e preciso. A engenharia de software pode ser definida como "programação integrada ao longo do tempo", que basicamente quer dizer que um engenheiro de software além de programar, deve pensar no tempo de vida do código e como ele se adaptará com o passar do tempo, pensar em como o código se adaptará ao crescimento da empresa, e em como a empresa deverá fazer decisões com base nos fatores de tempo e crescimento citados anteriormente.
 
@@ -6,7 +6,7 @@ A engenharia de software também se diferencia de outras áreas da engenharia, p
 
 ---
 
-## 5 Requisitos não funcionais
+# Atividade 2 - 5 Requisitos não funcionais
 
 #### Escalabilidade:
 - Capacidade de escalar um software para se manter funcional mesmo com grandes quantidades de usuários ao mesmo tempo, como o Google, que tem bilhões de usuários o tempo todo e precisa se manter em perfeito estado para esses bilhões de usuários.
@@ -21,7 +21,7 @@ A engenharia de software também se diferencia de outras áreas da engenharia, p
 
 ---
 
-## Trade Offs
+# Atividade 3 - Trade Offs
 
 #### Consistência (SQL) X Disponibilidade (NoSQL):
 - SQL Garante que todos os usuários vejam o mesmo dado ao mesmo tempo (ideal para transferências bancárias). Se houver falha de rede, o sistema pode bloquear o acesso, sacrificando a disponibilidade.
@@ -37,7 +37,7 @@ A engenharia de software também se diferencia de outras áreas da engenharia, p
 
 ---
 
-## Engenharia de Software
+# Atividade 4 - Engenharia de Software (Sprints de um Hotel)
 
 ### Sprints de um Hotel
 
