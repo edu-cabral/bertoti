@@ -43,12 +43,18 @@ A engenharia de software também se diferencia de outras áreas da engenharia, p
 
 #### Not Like This... (jeito errado)
 1 - Construir um estabelecimento e botar portas e janelas nos cômodos.
+
 2 - montar todos os quartos.
+
 3 - montar uma cozinha e recepção.
+
 4 - contratar funcionários e iniciar os serviços.
 
 #### Like This! (jeito certo)
 1 - alugar ou usar um espaço ja adquirido com pelo menos dois quartos prontos para uso.
+
 2 - contratar funcionários para limpeza e recepção.
+
 3 - expandir o local e/ou serviços se possível, como café da manhã e/ou almoço, website para atendimento online, marketing.
+
 4 - Quando for possível, construir um local próprio do hotel.
